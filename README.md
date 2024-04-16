@@ -1,7 +1,7 @@
 # Nicholas Dylan 🙋‍♂️
 
 ## Introduction
-Hello there 👋 I'm Nicholas Dylan, a 20-year-old computer science enthusiast originally from Jakarta, Indonesia, currently residing in Kuala Lumpur, Malaysia. I recently completed my studies in Computer Science at UOW Malaysia.
+Hello there 👋 I'm Nicholas Dylan, a 20-year-old computer science enthusiast originally from Jakarta, Indonesia, currently residing in Kuala Lumpur, Malaysia. I am completing my studies in Computer Science at UOW Malaysia.
 
 ## About Me
 - **Location:** Kuala Lumpur, Malaysia 🇲🇾
