@@ -1,11 +1,10 @@
 # Nicholas Dylan 🙋‍♂️
 
 ## Introduction
-Hello there 👋 I'm Nicholas Dylan, a graduating computer science student, currently residing in Subang Jaya, Selangor 🇲🇾. I am completing my studies in Computer Science at UOW Malaysia and will be graduating in November 2024.
+Hello there 👋 I'm Nicholas Dylan, a recent computer science graduate with a major in data science, now stepping into my career as an Machine Learning engineer.
 
 ## About Me
-- **Location:** Kuala Lumpur, Malaysia 🇲🇾
-- **Age:** 21
+- **Location:** Subang Jaya, Malaysia 🇲🇾
 - **Languages:** Indonesian (native) 🇮🇩, English (fluent) 🇬🇧, Malay (basic) 🇲🇾
 
 ## Interests
