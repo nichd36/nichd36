@@ -1,6 +1,4 @@
 # Nicholas Dylan 🙋‍♂️
-
-## Introduction
 Hello there 👋 I'm Nicholas Dylan, a recent computer science graduate with a major in data science, now stepping into my career as an Machine Learning engineer.
 
 ## About Me
