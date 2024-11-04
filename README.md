@@ -9,8 +9,7 @@ Hello there 👋 I'm Nicholas Dylan, a recent computer science graduate with a m
 
 ## Interests
 I'm deeply passionate about various projects within the realms of:
-- Computer Vision 🔭
-- Data Science 📊
+- Data Science & Machine Learning 📊
 - Mobile App and Web Development 📱🌐
 
 ## Contact Information
