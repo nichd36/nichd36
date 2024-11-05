@@ -1,4 +1,3 @@
-# Nicholas Dylan 🙋‍♂️
 Hello there 👋 I'm Nicholas Dylan, a recent computer science graduate with a major in data science, now stepping into my career as an Machine Learning engineer.
 - **Location:** Subang Jaya, Malaysia 🇲🇾
 - **Languages:** Indonesian (native) 🇮🇩, English (fluent) 🇬🇧, Malay (basic) 🇲🇾
