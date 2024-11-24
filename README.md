@@ -1,7 +1,7 @@
 Hello there 👋 I'm Nicholas Dylan, a recent computer science graduate with a major in data science, now stepping into my career as an Machine Learning Engineer.
 - **Location:** Subang Jaya, Malaysia 🇲🇾
 - **Languages:** Indonesian (native) 🇮🇩, English (fluent) 🇬🇧🇺🇸, Malay (basic) 🇲🇾
-- - **📫 Email:** [ndylan76@gmail.com](mailto:ndylan76@gmail.com)
+- **📫 Email:** [ndylan76@gmail.com](mailto:ndylan76@gmail.com)
 
 ## Interests
 I'm passionate about projects within the realms of:
